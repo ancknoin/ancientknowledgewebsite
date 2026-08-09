@@ -26,7 +26,7 @@ jobs:
         uses: cicirello/generate-sitemap@v1
         with:
           include-pdf: false
-          base-url-path: https://www.ancientknowledge.in/
+          base-url-path: https://old.ancientknowledge.in/
 
       - name: Output stats
         run: |

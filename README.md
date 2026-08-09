@@ -2,7 +2,7 @@
 
 Welcome to the Ancient Knowledge repository, a hub for Vedic Culture and the Sanātana Dharma. Our mission is to foster a platform that enables everyone to explore and learn from the profound wisdom contained within ancient scriptures.
 
-Visit our website at [https://www.ancientknowledge.in](https://www.ancientknowledge.in) to access the comprehensive tool we've created for Sanskrit scholars and researchers. This website serves as an invaluable resource, utilizing the static content maintained in this repository to provide a centralized location for studying and researching ancient scriptures.
+Visit our website at [https://old.ancientknowledge.in](https://old.ancientknowledge.in) to access the comprehensive tool we've created for Sanskrit scholars and researchers. This website serves as an invaluable resource, utilizing the static content maintained in this repository to provide a centralized location for studying and researching ancient scriptures.
 
 ## About
 
